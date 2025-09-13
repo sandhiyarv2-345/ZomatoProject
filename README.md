@@ -1,1 +1,1 @@
-A simple Frontend Zomato Website.
+A simple Frontend of Zomato Website using HTML,CSS and JavaScript.
